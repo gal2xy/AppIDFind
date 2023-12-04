@@ -8,4 +8,4 @@
 
 代码中出现的服务类目参考于：https://developers.weixin.qq.com/doc/offiaccount/Subscription_Messages/category.html。
 
-具体不展开相熟，如若有必要，可自己抓包尝试。
+具体不展开详述，如若有必要，可自己抓包尝试。
